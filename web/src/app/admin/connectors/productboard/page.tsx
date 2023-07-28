@@ -69,7 +69,7 @@ const Main = () => {
       <p className="text-sm">
         This connector allows you to sync all your <i>Features</i>,{" "}
         <i>Components</i>, <i>Products</i>, and <i>Objectives</i> from
-        Productboard into Danswer. At this time, the Productboard APIs does not
+        Productboard into TitanAI. At this time, the Productboard APIs does not
         support pulling in <i>Releases</i> or <i>Notes</i>.
       </p>
 

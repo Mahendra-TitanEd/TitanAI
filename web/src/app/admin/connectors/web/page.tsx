@@ -58,7 +58,7 @@ export default function Web() {
           }
           validationSchema={Yup.object().shape({
             base_url: Yup.string().required(
-              "Please enter the website URL to scrape e.g. https://docs.danswer.dev/"
+              "Please enter the website URL to scrape e.g. https://docs.titaned.com/"
             ),
           })}
           initialValues={{
